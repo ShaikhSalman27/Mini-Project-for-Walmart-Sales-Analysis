@@ -1,1 +1,1 @@
-# Mini-Project-for-Walmart-Sales-Analysis
+# MySQL Mini-Project-for-Walmart-Sales-Analysis
